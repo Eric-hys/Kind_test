@@ -15,8 +15,8 @@
     5. 設定數據源，然後點擊 `Import` 完成匯入。
 
 ## Node panel 說明
-![g1](https://hackmd.io/_uploads/H1ETpJzq0.png)
-![g2](https://hackmd.io/_uploads/HyRppkMq0.png)
+![g1](https://github.com/Eric-hys/Kind_test/blob/main/images/g1.png)
+![g2](https://github.com/Eric-hys/Kind_test/blob/main/images/g2.png)
 
 ### Pods Ready 
  
@@ -70,7 +70,7 @@
 - **用途** : 測量Kubernetes API Server的響應時間。高延遲可能影響集群管理操作的效率。
 
 ## Pod 指標 panel 說明
-![g3](https://hackmd.io/_uploads/H1vR6kG90.png)
+![g3](https://github.com/Eric-hys/Kind_test/blob/main/images/g3.png)
 
 
 ### Pod Uptime 
